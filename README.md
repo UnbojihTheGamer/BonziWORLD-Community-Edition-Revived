@@ -1,6 +1,6 @@
-# BonziWORLD Community Edition
+# BonziWORLD Community Edition Revived
 
-**This bonziworld respository houses the source code to BonziWORLD: CE.**
+**This repository houses the source code to BonziWORLD Community Edition.**
 <br>
 The source code has been made public because I would like to move on from this project and work on something else. Since it's just been sitting here collecting dust, I figured I should make this public. Who knows, maybe somebody will find this useful.
 <br><br>
@@ -17,10 +17,5 @@ The source code has been made public because I would like to move on from this p
 
 <hr>
 
-### License & Copyright
+## License
 MIT
-
-Copyright (c) 2023-2026 Cosmic
-
-
-<hr>
