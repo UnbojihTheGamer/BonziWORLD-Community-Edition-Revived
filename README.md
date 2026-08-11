@@ -8,9 +8,7 @@ The source code has been made public because I would like to move on from this p
 - [**Original Repo**](https://github.com/CosmicStar98/BonziWORLD-Enhanced "Visit the source-code which powers BWCE")
 - [TODO](TODO.md "Things I need to work on...")
 - [SETUP](SETUP.md "View the setup instructions for this project...")
-- [LICENSE](LICENSE.md "View this project's license...")
 
-<hr>
 
 ## License
 MIT
